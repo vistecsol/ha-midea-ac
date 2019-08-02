@@ -1,0 +1,11 @@
+{
+        "domain": "ha-midea-ac",
+        "name": "Midea Aircon",
+        "documentation": "",
+        "requirements": ["midea-vistecsol==0.1.11", "pycryptodome"],
+        "dependencies": [],
+        "codeowners": [
+		"@vistecsol"
+	],
+	"homeassistant": "0.96.0"
+}
