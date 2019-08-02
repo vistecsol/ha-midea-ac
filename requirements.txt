@@ -1,2 +1,2 @@
 pycryptodome
-midea-vistecsol
+midea-andersonshatch
